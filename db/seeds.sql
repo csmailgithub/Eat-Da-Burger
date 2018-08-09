@@ -1,8 +1,8 @@
 INSERT INTO burgers (burger_name, is_devoured)
-VALUES ("El Diablo Burger", false);
+VALUES ("California Burger", false);
 
 INSERT INTO burgers (burger_name, is_devoured)
-VALUES ("Black Bean Burger", false);
+VALUES ("Black Bean Veggie Burger", false);
 
 INSERT INTO burgers (burger_name, is_devoured)
-VALUES ("California Club Burger", false);
+VALUES ("Barbeque Bacon Burger", false);
